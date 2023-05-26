@@ -1,8 +1,7 @@
 # Storybook-docs
 
-<div align="center">
+
 ![](/image/storybook.png)
-</div>
 
 ## 스토리북이란?
 
