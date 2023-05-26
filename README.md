@@ -1,6 +1,8 @@
 # Storybook-docs
 
+<div align="center">
 ![](/image/storybook.png)
+</div>
 
 ## 스토리북이란?
 
@@ -50,6 +52,8 @@
 * 문서화를 한다고 해도, 정해진 레이아웃에 맞춰야 하니 아무리 커스텀이 가능하다고 해도 한계가 있다.
 
 ## 장점1. MockApi로 프론트 개발 마이웨이로 진행
+
+> install: npx storybook@latest init
 
 > ❌ npm run dev
 
